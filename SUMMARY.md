@@ -1,0 +1,28 @@
+# 题库
+- 色
+  - [不三不四](http://www.sudokufans.org.cn/lx/n3.index.php?w=10) 【需要登录】
+  - [蛇](http://www.sudokufans.org.cn/lx/she.index.php?w=10) 【需要登录】
+  - [数壹](数壹.md)
+  - [羊肠小道](http://www.sudokufans.org.cn/lx/sho.index.php?w=10) 【需要登录】
+  - [阴阳](http://www.sudokufans.org.cn/lx/yy.index.php?w=10) 【需要登录】
+  - [帐篷](帐篷.md)
+- 线
+  - [仙人指路](http://www.sudokufans.org.cn/lx/xrzl.index.php?w=10) 【需要登录】
+  - [珍珠](珍珠.md)
+  - 数回
+      - [数回](数回.md)
+      - [奇偶数回](奇偶数回.md)
+      - [正反数回](正反数回.md)
+      - [差1数回](差1数回.md)
+      - [异形数回](http://www.sudokufans.org.cn/lx/loom.index.php?w=16&h=10) 【需要登录】
+  - 五格拼板
+    - [五格拼板](http://www.sudokufans.org.cn/lx/g5.index.php?w=10) 【需要登录】
+    - [五格拼板(3全标)](http://www.sudokufans.org.cn/lx/g3.index.php?w=10) 【需要登录】
+- 形
+  - [数箭](数箭.md)
+  - [摇啊摇](http://www.sudokufans.org.cn/lx/yay.index.php?w=10) 【需要登录】
+  - [三角扫雷](http://www.sudokufans.org.cn/lx/ms.index.php?w=6) 【需要登录】
+- 数
+  - [1234](http://www.sudokufans.org.cn/lx/game.index.php?type=1234) 【需要登录】
+  - [2234](http://www.sudokufans.org.cn/lx/game.index.php?type=2234) 【需要登录】
+  - [数独](https://github.com/zhugelianglongming/sudoku/blob/main/SUMMARY.md)
