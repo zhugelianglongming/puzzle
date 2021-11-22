@@ -10,3 +10,4 @@
 
 ## 收录站点
 - [独·数之道](http://www.sudokufans.org.cn/)
+- [星系](https://cn.puzzle-galaxies.com/)
