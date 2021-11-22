@@ -20,6 +20,7 @@
     - [五格拼板](http://www.sudokufans.org.cn/lx/g5.index.php?w=10) 【需要登录】
     - [五格拼板(3全标)](http://www.sudokufans.org.cn/lx/g3.index.php?w=10) 【需要登录】
 - 形
+  - [接水管](https://cn.puzzle-pipes.com/)
   - [数箭](数箭.md)
   - [摇啊摇](http://www.sudokufans.org.cn/lx/yay.index.php?w=10) 【需要登录】
   - [三角扫雷](http://www.sudokufans.org.cn/lx/ms.index.php?w=6) 【需要登录】
