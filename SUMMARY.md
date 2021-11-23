@@ -19,6 +19,7 @@
   - 连接
     - [搭桥](https://cn.puzzle-bridges.com/)
     - [缝线](https://cn.puzzle-stitches.com/)
+    - [数邻](https://cn.puzzle-dominosa.com/)
     - [仙人指路](http://www.sudokufans.org.cn/lx/xrzl.index.php?w=10) 【需要登录】
     - [信号旗](https://cn.puzzle-shingoki.com/)
     - [珍珠](珍珠.md)
