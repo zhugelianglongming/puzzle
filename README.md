@@ -14,5 +14,6 @@
 - [数间](https://cn.puzzle-heyawake.com/)
 - [数壹](https://cn.puzzle-hitori.com/)
 - [星系](https://cn.puzzle-galaxies.com/)
+- [信号旗](https://cn.puzzle-shingoki.com/)
 - [帐篷](https://cn.puzzle-tents.com/)
 - [战舰](https://cn.puzzle-battleships.com/)
