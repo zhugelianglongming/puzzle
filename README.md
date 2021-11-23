@@ -17,3 +17,4 @@
 - [信号旗](https://cn.puzzle-shingoki.com/)
 - [帐篷](https://cn.puzzle-tents.com/)
 - [战舰](https://cn.puzzle-battleships.com/)
+- [珍珠](https://cn.puzzle-masyu.com/)
