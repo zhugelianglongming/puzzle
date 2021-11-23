@@ -1,6 +1,7 @@
 # 题库
 - 色
   - [不三不四](http://www.sudokufans.org.cn/lx/n3.index.php?w=10) 【需要登录】
+  - [方阵和](https://cn.puzzle-kakurasu.com/)
   - [蛇](http://www.sudokufans.org.cn/lx/she.index.php?w=10) 【需要登录】
   - [数间](https://cn.puzzle-heyawake.com/)
   - [数墙‧改](https://cn.puzzle-tapa.com/)

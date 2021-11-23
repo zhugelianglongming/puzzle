@@ -10,6 +10,7 @@
 
 ## 收录站点
 - [独·数之道](http://www.sudokufans.org.cn/)
+- [方阵和](https://cn.puzzle-kakurasu.com/)
 - [缝线](https://cn.puzzle-stitches.com/)
 - [接水管](https://cn.puzzle-pipes.com/)
 - [数间](https://cn.puzzle-heyawake.com/)
