@@ -8,6 +8,7 @@
   - [阴阳](http://www.sudokufans.org.cn/lx/yy.index.php?w=10) 【需要登录】
   - [帐篷](帐篷.md)
 - 线
+  - [缝线](https://cn.puzzle-stitches.com/)
   - [仙人指路](http://www.sudokufans.org.cn/lx/xrzl.index.php?w=10) 【需要登录】
   - [星系](https://cn.puzzle-galaxies.com/)
   - [信号旗](https://cn.puzzle-shingoki.com/)
