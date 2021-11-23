@@ -17,6 +17,7 @@
 - [数间](https://cn.puzzle-heyawake.com/)
 - [数墙‧改](https://cn.puzzle-tapa.com/)
 - [数壹](https://cn.puzzle-hitori.com/)
+- [数织](https://cn.puzzle-nonograms.com/)
 - [水箱](https://cn.puzzle-aquarium.com/)
 - [星系](https://cn.puzzle-galaxies.com/)
 - [星之战](https://cn.puzzle-star-battle.com/)

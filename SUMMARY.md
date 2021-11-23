@@ -7,6 +7,7 @@
   - [数间](https://cn.puzzle-heyawake.com/)
   - [数墙‧改](https://cn.puzzle-tapa.com/)
   - [数壹](数壹.md)
+  - [数织](https://cn.puzzle-nonograms.com/)
   - [水箱](https://cn.puzzle-aquarium.com/)
   - [星之战](https://cn.puzzle-star-battle.com/)
   - [羊肠小道](http://www.sudokufans.org.cn/lx/sho.index.php?w=10) 【需要登录】
