@@ -2,6 +2,7 @@
 - 色
   - [不三不四](http://www.sudokufans.org.cn/lx/n3.index.php?w=10) 【需要登录】
   - [蛇](http://www.sudokufans.org.cn/lx/she.index.php?w=10) 【需要登录】
+  - [数间](https://cn.puzzle-heyawake.com/)
   - [数壹](数壹.md)
   - [羊肠小道](http://www.sudokufans.org.cn/lx/sho.index.php?w=10) 【需要登录】
   - [阴阳](http://www.sudokufans.org.cn/lx/yy.index.php?w=10) 【需要登录】
