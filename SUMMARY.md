@@ -38,7 +38,7 @@
 - 形
   - [接水管](https://cn.puzzle-pipes.com/)
   - [数箭](数箭.md)
-  - [摇啊摇](http://www.sudokufans.org.cn/lx/yay.index.php?w=10) 【需要登录】
+  - [留方](留方.md)
   - [三角扫雷](http://www.sudokufans.org.cn/lx/ms.index.php?w=6) 【需要登录】
   - [战舰](https://cn.puzzle-battleships.com/)
 - 数

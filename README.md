@@ -16,6 +16,7 @@
 - [方阵和](https://cn.puzzle-kakurasu.com/)
 - [缝线](https://cn.puzzle-stitches.com/)
 - [接水管](https://cn.puzzle-pipes.com/)
+- [留方](https://cn.puzzle-shakashaka.com/)
 - [数方](https://cn.puzzle-shikaku.com/)
 - [数回](https://cn.puzzle-loop.com/)
 - [数间](https://cn.puzzle-heyawake.com/)
