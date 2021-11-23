@@ -23,6 +23,7 @@
     - [珍珠](珍珠.md)
   - 分隔
     - [星系](https://cn.puzzle-galaxies.com/)
+    - [数方](https://cn.puzzle-shikaku.com/)
     - 数回
         - [数回](数回.md)
         - [奇偶数回](奇偶数回.md)
