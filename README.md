@@ -17,6 +17,7 @@
 - [数壹](https://cn.puzzle-hitori.com/)
 - [水箱](https://cn.puzzle-aquarium.com/)
 - [星系](https://cn.puzzle-galaxies.com/)
+- [星之战](https://cn.puzzle-star-battle.com/)
 - [信号旗](https://cn.puzzle-shingoki.com/)
 - [帐篷](https://cn.puzzle-tents.com/)
 - [战舰](https://cn.puzzle-battleships.com/)

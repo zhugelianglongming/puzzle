@@ -6,6 +6,7 @@
   - [数墙‧改](https://cn.puzzle-tapa.com/)
   - [数壹](数壹.md)
   - [水箱](https://cn.puzzle-aquarium.com/)
+  - [星之战](https://cn.puzzle-star-battle.com/)
   - [羊肠小道](http://www.sudokufans.org.cn/lx/sho.index.php?w=10) 【需要登录】
   - [阴阳](http://www.sudokufans.org.cn/lx/yy.index.php?w=10) 【需要登录】
   - [帐篷](帐篷.md)
