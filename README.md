@@ -19,6 +19,7 @@
 - [数方](https://cn.puzzle-shikaku.com/)
 - [数回](https://cn.puzzle-loop.com/)
 - [数间](https://cn.puzzle-heyawake.com/)
+- [数墙](https://cn.puzzle-nurikabe.com/)
 - [数墙‧改](https://cn.puzzle-tapa.com/)
 - [数壹](https://cn.puzzle-hitori.com/)
 - [数织](https://cn.puzzle-nonograms.com/)

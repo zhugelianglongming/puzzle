@@ -6,6 +6,7 @@
   - [方阵和](https://cn.puzzle-kakurasu.com/)
   - [蛇](http://www.sudokufans.org.cn/lx/she.index.php?w=10) 【需要登录】
   - [数间](https://cn.puzzle-heyawake.com/)
+  - [数墙](https://cn.puzzle-nurikabe.com/)
   - [数墙‧改](https://cn.puzzle-tapa.com/)
   - [数壹](数壹.md)
   - [数织](https://cn.puzzle-nonograms.com/)
