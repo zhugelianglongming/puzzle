@@ -9,6 +9,7 @@
 访问 [目录索引](SUMMARY.md)
 
 ## 收录站点
+- [搭桥](https://cn.puzzle-bridges.com/)
 - [点灯](https://cn.puzzle-light-up.com/)
 - [独·数之道](http://www.sudokufans.org.cn/)
 - [黑白](https://cn.puzzle-binairo.com/)

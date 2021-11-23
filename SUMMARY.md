@@ -15,20 +15,23 @@
   - [阴阳](http://www.sudokufans.org.cn/lx/yy.index.php?w=10) 【需要登录】
   - [帐篷](帐篷.md)
 - 线
-  - [缝线](https://cn.puzzle-stitches.com/)
-  - [仙人指路](http://www.sudokufans.org.cn/lx/xrzl.index.php?w=10) 【需要登录】
-  - [星系](https://cn.puzzle-galaxies.com/)
-  - [信号旗](https://cn.puzzle-shingoki.com/)
-  - [珍珠](珍珠.md)
-  - 数回
-      - [数回](数回.md)
-      - [奇偶数回](奇偶数回.md)
-      - [正反数回](正反数回.md)
-      - [差1数回](差1数回.md)
-      - [异形数回](http://www.sudokufans.org.cn/lx/loom.index.php?w=16&h=10) 【需要登录】
-  - 五格拼板
-    - [五格拼板](http://www.sudokufans.org.cn/lx/g5.index.php?w=10) 【需要登录】
-    - [五格拼板(3全标)](http://www.sudokufans.org.cn/lx/g3.index.php?w=10) 【需要登录】
+  - 连接
+    - [搭桥](https://cn.puzzle-bridges.com/)
+    - [缝线](https://cn.puzzle-stitches.com/)
+    - [仙人指路](http://www.sudokufans.org.cn/lx/xrzl.index.php?w=10) 【需要登录】
+    - [信号旗](https://cn.puzzle-shingoki.com/)
+    - [珍珠](珍珠.md)
+  - 分隔
+    - [星系](https://cn.puzzle-galaxies.com/)
+    - 数回
+        - [数回](数回.md)
+        - [奇偶数回](奇偶数回.md)
+        - [正反数回](正反数回.md)
+        - [差1数回](差1数回.md)
+        - [异形数回](http://www.sudokufans.org.cn/lx/loom.index.php?w=16&h=10) 【需要登录】
+    - 五格拼板
+      - [五格拼板](http://www.sudokufans.org.cn/lx/g5.index.php?w=10) 【需要登录】
+      - [五格拼板(3全标)](http://www.sudokufans.org.cn/lx/g3.index.php?w=10) 【需要登录】
 - 形
   - [接水管](https://cn.puzzle-pipes.com/)
   - [数箭](数箭.md)
