@@ -1,20 +1,26 @@
 # 题库
 - 色
-  - [不三不四](http://www.sudokufans.org.cn/lx/n3.index.php?w=10) 【需要登录】
-  - [点灯](https://cn.puzzle-light-up.com/)
-  - [黑白](https://cn.puzzle-binairo.com/)
-  - [方阵和](https://cn.puzzle-kakurasu.com/)
-  - [蛇](http://www.sudokufans.org.cn/lx/she.index.php?w=10) 【需要登录】
-  - [数间](https://cn.puzzle-heyawake.com/)
-  - [数墙](https://cn.puzzle-nurikabe.com/)
-  - [数墙‧改](https://cn.puzzle-tapa.com/)
-  - [数壹](数壹.md)
-  - [数织](https://cn.puzzle-nonograms.com/)
-  - [水箱](https://cn.puzzle-aquarium.com/)
-  - [星之战](https://cn.puzzle-star-battle.com/)
-  - [羊肠小道](http://www.sudokufans.org.cn/lx/sho.index.php?w=10) 【需要登录】
-  - [阴阳](http://www.sudokufans.org.cn/lx/yy.index.php?w=10) 【需要登录】
-  - [帐篷](帐篷.md)
+  - 染色
+    - 全染
+      - [不三不四](http://www.sudokufans.org.cn/lx/n3.index.php?w=10) 【需要登录】
+      - [数间](https://cn.puzzle-heyawake.com/)
+      - [数墙](https://cn.puzzle-nurikabe.com/)
+      - [数墙‧改](https://cn.puzzle-tapa.com/)
+    - 部分染
+      - [方阵和](https://cn.puzzle-kakurasu.com/)
+      - [蛇](http://www.sudokufans.org.cn/lx/she.index.php?w=10) 【需要登录】
+      - [数壹](色/染色/部分/数壹.md)
+      - [数织](https://cn.puzzle-nonograms.com/)
+      - [水箱](https://cn.puzzle-aquarium.com/)
+      - [羊肠小道](http://www.sudokufans.org.cn/lx/sho.index.php?w=10) 【需要登录】
+  - 放置
+    - 全放
+      - [阴阳](色/放置/全/阴阳.md)
+    - 部分放
+      - [点灯](https://cn.puzzle-light-up.com/)
+      - [黑白](https://cn.puzzle-binairo.com/)
+      - [星之战](https://cn.puzzle-star-battle.com/)
+      - [帐篷](色/放置/部分/帐篷.md)
 - 线
   - 连接
     - [搭桥](https://cn.puzzle-bridges.com/)
@@ -45,3 +51,5 @@
   - [1234](http://www.sudokufans.org.cn/lx/game.index.php?type=1234) 【需要登录】
   - [2234](http://www.sudokufans.org.cn/lx/game.index.php?type=2234) 【需要登录】
   - [数独](https://github.com/zhugelianglongming/sudoku/blob/main/SUMMARY.md)
+
+> [德国逻辑大师谜题分类](http://wiki.logic-masters.de/index.php?title=Kategorie:Systematik/de)
