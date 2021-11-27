@@ -32,3 +32,4 @@
 - [帐篷](https://cn.puzzle-tents.com/)
 - [战舰](https://cn.puzzle-battleships.com/)
 - [珍珠](https://cn.puzzle-masyu.com/)
+- [Logic Masters Deutschland e.V.](https://logic-masters.de/)

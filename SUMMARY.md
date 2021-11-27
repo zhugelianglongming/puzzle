@@ -1,55 +1,57 @@
 # 题库
-- 色
-  - 染色
-    - 全染
-      - [不三不四](http://www.sudokufans.org.cn/lx/n3.index.php?w=10) 【需要登录】
-      - [数间](https://cn.puzzle-heyawake.com/)
-      - [数墙](https://cn.puzzle-nurikabe.com/)
-      - [数墙‧改](https://cn.puzzle-tapa.com/)
-    - 部分染
-      - [方阵和](https://cn.puzzle-kakurasu.com/)
-      - [蛇](http://www.sudokufans.org.cn/lx/she.index.php?w=10) 【需要登录】
-      - [数壹](色/染色/部分/数壹.md)
-      - [数织](https://cn.puzzle-nonograms.com/)
-      - [水箱](https://cn.puzzle-aquarium.com/)
-      - [羊肠小道](http://www.sudokufans.org.cn/lx/sho.index.php?w=10) 【需要登录】
-  - 放置
-    - 全放
-      - [阴阳](色/放置/全/阴阳.md)
-    - 部分放
-      - [点灯](https://cn.puzzle-light-up.com/)
-      - [黑白](https://cn.puzzle-binairo.com/)
-      - [星之战](https://cn.puzzle-star-battle.com/)
-      - [帐篷](色/放置/部分/帐篷.md)
-- 线
-  - 连接
-    - [搭桥](https://cn.puzzle-bridges.com/)
-    - [缝线](https://cn.puzzle-stitches.com/)
-    - [数邻](https://cn.puzzle-dominosa.com/)
-    - [仙人指路](http://www.sudokufans.org.cn/lx/xrzl.index.php?w=10) 【需要登录】
-    - [信号旗](https://cn.puzzle-shingoki.com/)
-    - [珍珠](珍珠.md)
-  - 分隔
-    - [星系](https://cn.puzzle-galaxies.com/)
-    - [数方](https://cn.puzzle-shikaku.com/)
-    - 数回
-        - [数回](数回.md)
-        - [奇偶数回](奇偶数回.md)
-        - [正反数回](正反数回.md)
-        - [差1数回](差1数回.md)
-        - [异形数回](http://www.sudokufans.org.cn/lx/loom.index.php?w=16&h=10) 【需要登录】
-    - 五格拼板
-      - [五格拼板](http://www.sudokufans.org.cn/lx/g5.index.php?w=10) 【需要登录】
-      - [五格拼板(3全标)](http://www.sudokufans.org.cn/lx/g3.index.php?w=10) 【需要登录】
-- 形
-  - [接水管](https://cn.puzzle-pipes.com/)
-  - [数箭](数箭.md)
-  - [留方](留方.md)
-  - [三角扫雷](http://www.sudokufans.org.cn/lx/ms.index.php?w=6) 【需要登录】
-  - [战舰](https://cn.puzzle-battleships.com/)
-- 数
-  - [1234](http://www.sudokufans.org.cn/lx/game.index.php?type=1234) 【需要登录】
-  - [2234](http://www.sudokufans.org.cn/lx/game.index.php?type=2234) 【需要登录】
-  - [数独](https://github.com/zhugelianglongming/sudoku/blob/main/SUMMARY.md)
+- [介绍](README.md)
+- [主题索引](主题索引.md)
+- 分类
+  - 色
+    - 染色
+      - 全染
+        - [不三不四](http://www.sudokufans.org.cn/lx/n3.index.php?w=10) 【需要登录】
+        - [数间](https://cn.puzzle-heyawake.com/)
+        - [数墙](https://cn.puzzle-nurikabe.com/)
+        - [数墙‧改](https://cn.puzzle-tapa.com/)
+      - 部分染
+        - [方阵和](https://cn.puzzle-kakurasu.com/)
+        - [蛇](http://www.sudokufans.org.cn/lx/she.index.php?w=10) 【需要登录】
+        - [数壹](色/染色/部分/数壹.md)
+        - [数织](https://cn.puzzle-nonograms.com/)
+        - [水箱](https://cn.puzzle-aquarium.com/)
+        - [羊肠小道](http://www.sudokufans.org.cn/lx/sho.index.php?w=10) 【需要登录】
+    - 放置
+      - 全放
+        - [阴阳](色/放置/全/阴阳.md)
+      - 部分放
+        - [点灯](https://cn.puzzle-light-up.com/)
+        - [黑白](https://cn.puzzle-binairo.com/)
+        - [星之战](https://cn.puzzle-star-battle.com/)
+        - [帐篷](色/放置/部分/帐篷.md)
+  - 线
+    - 连接
+      - [搭桥](https://cn.puzzle-bridges.com/)
+      - [缝线](https://cn.puzzle-stitches.com/)
+      - [数邻](https://cn.puzzle-dominosa.com/)
+      - [仙人指路](http://www.sudokufans.org.cn/lx/xrzl.index.php?w=10) 【需要登录】
+      - [信号旗](https://cn.puzzle-shingoki.com/)
+      - [珍珠](珍珠.md)
+    - 分隔
+      - [星系](https://cn.puzzle-galaxies.com/)
+      - [数方](https://cn.puzzle-shikaku.com/)
+      - [五格拼板](线/分隔/五格拼板.md)
+      - 数回
+          - [数回](数回.md)
+          - [奇偶数回](奇偶数回.md)
+          - [正反数回](正反数回.md)
+          - [差1数回](差1数回.md)
+          - [异形数回](http://www.sudokufans.org.cn/lx/loom.index.php?w=16&h=10) 【需要登录】
+  - 形
+    - [接水管](https://cn.puzzle-pipes.com/)
+    - [数箭](数箭.md)
+    - [留方](留方.md)
+    - [三角扫雷](http://www.sudokufans.org.cn/lx/ms.index.php?w=6) 【需要登录】
+    - [战舰](https://cn.puzzle-battleships.com/)
+  - 数
+    - [ABC-tje](https://logic-masters.de/Raetselportal/Suche/spezial.php?listname=ABCtje)
+    - [1234](http://www.sudokufans.org.cn/lx/game.index.php?type=1234) 【需要登录】
+    - [2234](http://www.sudokufans.org.cn/lx/game.index.php?type=2234) 【需要登录】
+    - [数独](https://github.com/zhugelianglongming/sudoku/blob/main/SUMMARY.md)
 
 > [德国逻辑大师谜题分类](http://wiki.logic-masters.de/index.php?title=Kategorie:Systematik/de)
