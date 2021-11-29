@@ -19,8 +19,9 @@
     - 放置
       - 全放
         - [阴阳](色/放置/全/阴阳.md)
+        - [ABC-Box](色/放置/全/ABC-Box.md)
       - 部分放
-        - [点灯](https://cn.puzzle-light-up.com/)
+        - [点灯](色/放置/部分/点灯.md)
         - [黑白](https://cn.puzzle-binairo.com/)
         - [星之战](https://cn.puzzle-star-battle.com/)
         - [帐篷](色/放置/部分/帐篷.md)
@@ -32,6 +33,8 @@
       - [仙人指路](http://www.sudokufans.org.cn/lx/xrzl.index.php?w=10) 【需要登录】
       - [信号旗](https://cn.puzzle-shingoki.com/)
       - [珍珠](珍珠.md)
+      - [Achtelwenden](线/连接/Achtelwenden.md)
+      - [Angler](线/连接/Angler.md)
     - 分隔
       - [星系](https://cn.puzzle-galaxies.com/)
       - [数方](https://cn.puzzle-shikaku.com/)
@@ -49,7 +52,7 @@
     - [三角扫雷](http://www.sudokufans.org.cn/lx/ms.index.php?w=6) 【需要登录】
     - [战舰](https://cn.puzzle-battleships.com/)
   - 数
-    - [ABC-tje](https://logic-masters.de/Raetselportal/Suche/spezial.php?listname=ABCtje)
+    - [ABC-tje](数/ABCtje.md)
     - [1234](http://www.sudokufans.org.cn/lx/game.index.php?type=1234) 【需要登录】
     - [2234](http://www.sudokufans.org.cn/lx/game.index.php?type=2234) 【需要登录】
     - [数独](https://github.com/zhugelianglongming/sudoku/blob/main/SUMMARY.md)
