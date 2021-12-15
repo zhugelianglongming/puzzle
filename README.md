@@ -8,6 +8,10 @@
 
 访问 [目录索引](SUMMARY.md)
 
+### gitbook
+
+访问 [智力游戏](https://zhugelianglongming.gitbook.io/zhi-li-you-xi/)
+
 ## 收录站点
 - [搭桥](https://cn.puzzle-bridges.com/)
 - [点灯](https://cn.puzzle-light-up.com/)
