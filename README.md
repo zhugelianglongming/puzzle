@@ -20,6 +20,7 @@
 - [方阵和](https://cn.puzzle-kakurasu.com/)
 - [缝线](https://cn.puzzle-stitches.com/)
 - [接水管](https://cn.puzzle-pipes.com/)
+- [康思](https://www.conceptispuzzles.com/zh/index.aspx?uri=home)
 - [留方](https://cn.puzzle-shakashaka.com/)
 - [数方](https://cn.puzzle-shikaku.com/)
 - [数回](https://cn.puzzle-loop.com/)

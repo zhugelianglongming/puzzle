@@ -11,50 +11,55 @@
         - [数墙‧改](https://cn.puzzle-tapa.com/)
       - 部分染
         - [方阵和](https://cn.puzzle-kakurasu.com/)
+        - [交叉填图](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/cross-a-pix) 【付费】
         - [蛇](http://www.sudokufans.org.cn/lx/she.index.php?w=10) 【需要登录】
         - [数壹](色/染色/部分/数壹.md)
         - [数织](https://cn.puzzle-nonograms.com/)
         - [水箱](https://cn.puzzle-aquarium.com/)
+        - [像素填空游戏](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/fill-a-pix) 【付费】
         - [羊肠小道](http://www.sudokufans.org.cn/lx/sho.index.php?w=10) 【需要登录】
     - 放置
       - 全放
         - [阴阳](色/放置/全/阴阳.md)
         - [ABC-Box](色/放置/全/ABC-Box.md)
+        - [OOXX](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/tic-tac-logic) 【付费】
       - 部分放
         - [点灯](色/放置/部分/点灯.md)
         - [黑白](https://cn.puzzle-binairo.com/)
+        - [填方块](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/pic-a-pix) 【付费】
         - [星之战](https://cn.puzzle-star-battle.com/)
         - [帐篷](色/放置/部分/帐篷.md)
   - 线
     - 连接
-      - [搭桥](https://cn.puzzle-bridges.com/)
+      - [搭桥](线/连接/搭桥.md)
       - [缝线](https://cn.puzzle-stitches.com/)
+      - [连数字](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/link-a-pix) 【付费】
       - [数邻](https://cn.puzzle-dominosa.com/)
       - [仙人指路](http://www.sudokufans.org.cn/lx/xrzl.index.php?w=10) 【需要登录】
       - [信号旗](https://cn.puzzle-shingoki.com/)
-      - [珍珠](珍珠.md)
+      - [珍珠](线/连接/珍珠.md)
       - [Achtelwenden](线/连接/Achtelwenden.md)
       - [Angler](线/连接/Angler.md)
     - 分隔
-      - [星系](https://cn.puzzle-galaxies.com/)
-      - [数方](https://cn.puzzle-shikaku.com/)
+      - [星系](线/分隔/星系.md)
+      - [数方](线/分隔/数方.md)
       - [五格拼板](线/分隔/五格拼板.md)
       - 数回
-          - [数回](数回.md)
-          - [奇偶数回](奇偶数回.md)
-          - [正反数回](正反数回.md)
-          - [差1数回](差1数回.md)
+          - [数回](线/分隔/数回/数回.md)
+          - [奇偶数回](线/分隔/数回/奇偶数回.md)
+          - [正反数回](线/分隔/数回/正反数回.md)
+          - [差1数回](线/分隔/数回/差1数回.md)
           - [异形数回](http://www.sudokufans.org.cn/lx/loom.index.php?w=16&h=10) 【需要登录】
   - 形
     - [接水管](https://cn.puzzle-pipes.com/)
-    - [数箭](数箭.md)
-    - [留方](留方.md)
+    - [数箭](线/分隔/数回/数箭.md)
+    - [留方](形/留方.md)
     - [三角扫雷](http://www.sudokufans.org.cn/lx/ms.index.php?w=6) 【需要登录】
-    - [战舰](https://cn.puzzle-battleships.com/)
+    - [战舰](形/战舰.md)
   - 数
     - [ABC-tje](数/ABCtje.md)
     - [1234](http://www.sudokufans.org.cn/lx/game.index.php?type=1234) 【需要登录】
     - [2234](http://www.sudokufans.org.cn/lx/game.index.php?type=2234) 【需要登录】
-    - [数独](https://github.com/zhugelianglongming/sudoku/blob/main/SUMMARY.md)
+    - [数独](https://dwz.cn/sudoku)
 
 > [德国逻辑大师谜题分类](http://wiki.logic-masters.de/index.php?title=Kategorie:Systematik/de)
