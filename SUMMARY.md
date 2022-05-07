@@ -18,6 +18,7 @@
         - [水箱](https://cn.puzzle-aquarium.com/)
         - [像素填空游戏](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/fill-a-pix) 【付费】
         - [羊肠小道](http://www.sudokufans.org.cn/lx/sho.index.php?w=10) 【需要登录】
+        - [LITS](https://cn.puzzle-lits.com/)
     - 放置
       - 全放
         - [阴阳](色/放置/全/阴阳.md)
@@ -33,6 +34,7 @@
     - 连接
       - [搭桥](线/连接/搭桥.md)
       - [缝线](https://cn.puzzle-stitches.com/)
+      - [划斜线](https://cn.puzzle-slant.com/)
       - [连数字](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/link-a-pix) 【付费】
       - [数邻](https://cn.puzzle-dominosa.com/)
       - [仙人指路](http://www.sudokufans.org.cn/lx/xrzl.index.php?w=10) 【需要登录】
