@@ -34,7 +34,7 @@
     - 连接
       - [搭桥](线/连接/搭桥.md)
       - [缝线](https://cn.puzzle-stitches.com/)
-      - [划斜线](https://cn.puzzle-slant.com/)
+      - [划斜线](线/连接/划斜线.md)
       - [连数字](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/link-a-pix) 【付费】
       - [数邻](https://cn.puzzle-dominosa.com/)
       - [仙人指路](http://www.sudokufans.org.cn/lx/xrzl.index.php?w=10) 【需要登录】
