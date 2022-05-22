@@ -1,7 +1,7 @@
 # Puzzle
 
 收录谜题资源
-![](images/智力谜题.png)
+![](images/智力谜题.svg)
 
 ## 查看方式
 

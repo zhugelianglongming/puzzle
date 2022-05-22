@@ -13,7 +13,8 @@
     "-lunr",
     "-search",
     "search-pro",
-    "splitter"
+    "splitter",
+    "popup"
   ],
   "pluginsConfig": {
     "editlink": {
