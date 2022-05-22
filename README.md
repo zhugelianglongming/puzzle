@@ -30,6 +30,7 @@
 - [康思](https://www.conceptispuzzles.com/zh/index.aspx?uri=home)
 - [留方](https://cn.puzzle-shakashaka.com/)
 - [扫雷](https://cn.puzzle-minesweeper.com/)
+- [扫雷之家](http://www.saolei123.com/)
 - [数方](https://cn.puzzle-shikaku.com/)
 - [数回](https://cn.puzzle-loop.com/)
 - [数间](https://cn.puzzle-heyawake.com/)
