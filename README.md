@@ -39,4 +39,4 @@
 - [战舰](https://cn.puzzle-battleships.com/)
 - [珍珠](https://cn.puzzle-masyu.com/)
 - [Logic Masters Deutschland e.V.](https://logic-masters.de/)
-- [LITS](https://cn.puzzle-lits.com/
+- [LITS](https://cn.puzzle-lits.com/)
