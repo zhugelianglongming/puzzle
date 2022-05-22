@@ -25,8 +25,12 @@ jobs:
 
       - name: generate _book folder
         run: |
+          {
+            echo ""
+            echo ""
+            cat SUMMARY.md
+          } >> 主题索引.md
           gitbook build
-          cp SUMMARY.md _book
 
       - name: push _book to branch gh-pages
         env:

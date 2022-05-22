@@ -6,7 +6,7 @@
 
 ### GitHub
 
-访问 [目录索引](SUMMARY.md)
+访问 [目录索引](https://github.com/zhugelianglongming/puzzle/blob/gh-pages/SUMMARY.md)
 
 ### gitbook
 
