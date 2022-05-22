@@ -10,7 +10,9 @@
 
 ### gitbook
 
-访问 [智力游戏](https://zhugelianglongming.gitbook.io/zhi-li-you-xi/)
+访问: 
+- [puzzle](https://zhugelianglongming.github.io/puzzle/)
+- [智力游戏](https://zhugelianglongming.gitbook.io/zhi-li-you-xi/)
 
 ## 收录站点
 - [搭桥](https://cn.puzzle-bridges.com/)
@@ -23,6 +25,7 @@
 - [划斜线](https://cn.puzzle-slant.com/)
 - [康思](https://www.conceptispuzzles.com/zh/index.aspx?uri=home)
 - [留方](https://cn.puzzle-shakashaka.com/)
+- [扫雷](https://cn.puzzle-minesweeper.com/)
 - [数方](https://cn.puzzle-shikaku.com/)
 - [数回](https://cn.puzzle-loop.com/)
 - [数间](https://cn.puzzle-heyawake.com/)

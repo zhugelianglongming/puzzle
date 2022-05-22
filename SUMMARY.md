@@ -27,6 +27,7 @@
       - 部分放
         - [点灯](色/放置/部分/点灯.md)
         - [黑白](https://cn.puzzle-binairo.com/)
+        - [扫雷](https://cn.puzzle-minesweeper.com/)
         - [填方块](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/pic-a-pix) 【付费】
         - [星之战](https://cn.puzzle-star-battle.com/)
         - [帐篷](色/放置/部分/帐篷.md)
