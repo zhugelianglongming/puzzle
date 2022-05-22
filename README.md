@@ -1,6 +1,7 @@
 # Puzzle
 
 收录谜题资源
+![](images/智力谜题.png)
 
 ## 查看方式
 
@@ -13,6 +14,9 @@
 访问: 
 - [puzzle](https://zhugelianglongming.github.io/puzzle/)
 - [智力游戏](https://zhugelianglongming.gitbook.io/zhi-li-you-xi/)
+
+### 脑图
+[智力谜题分类](http://naotu.baidu.com/file/2aaf3d54f319709cf717f5bd49d3dcae?token=b143a3231e27c705)
 
 ## 收录站点
 - [搭桥](https://cn.puzzle-bridges.com/)
