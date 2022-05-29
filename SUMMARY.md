@@ -5,20 +5,28 @@
   - 色
     - 染色
       - 全染
+        - [Unruly](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/unruly.html)
         - [不三不四](http://www.sudokufans.org.cn/lx/n3.index.php?w=10) 【需要登录】
         - [数间](https://cn.puzzle-heyawake.com/)
         - [数墙](https://cn.puzzle-nurikabe.com/)
         - [数墙‧改](https://cn.puzzle-tapa.com/)
+        - [Map](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/map.html)
+        - [Mosaic](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/mosaic.html)
       - 部分染
         - [方阵和](https://cn.puzzle-kakurasu.com/)
         - [交叉填图](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/cross-a-pix) 【付费】
-        - [蛇](http://www.sudokufans.org.cn/lx/she.index.php?w=10) 【需要登录】
+        - [蛇](色/染色/部分/蛇.md)
         - [数壹](色/染色/部分/数壹.md)
-        - [数织](https://cn.puzzle-nonograms.com/)
+        - [数织](色/染色/部分/数织.md)
         - [水箱](https://cn.puzzle-aquarium.com/)
         - [像素填空游戏](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/fill-a-pix) 【付费】
         - [羊肠小道](http://www.sudokufans.org.cn/lx/sho.index.php?w=10) 【需要登录】
         - [LITS](https://cn.puzzle-lits.com/)
+        - [Range](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/range.html)
+      - 动态染
+        - [Cube](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/cube.html)
+        - [Flip](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/flip.html)
+        - [Flood](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/flood.html)
     - 放置
       - 全放
         - [阴阳](色/放置/全/阴阳.md)
@@ -31,22 +39,33 @@
         - [填方块](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/pic-a-pix) 【付费】
         - [星之战](https://cn.puzzle-star-battle.com/)
         - [帐篷](色/放置/部分/帐篷.md)
+        - [Black Box](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/blackbox.html)
+        - [Magnets](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/magnets.html)
+        - [Undead](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/undead.html)
+      - 动态放
+        - [Guess](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/guess.html)
+    - 拾取
+      - [Inertia](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/inertia.html)
+      - [Pegs](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/pegs.html)
+      - [Same Game](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/samegame.html)
   - 线
     - 连接
       - [搭桥](线/连接/搭桥.md)
       - [缝线](https://cn.puzzle-stitches.com/)
       - [划斜线](线/连接/划斜线.md)
       - [连数字](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/link-a-pix) 【付费】
-      - [数邻](https://cn.puzzle-dominosa.com/)
+      - [数邻](线/连接/数邻.md)
       - [仙人指路](http://www.sudokufans.org.cn/lx/xrzl.index.php?w=10) 【需要登录】
       - [信号旗](https://cn.puzzle-shingoki.com/)
       - [珍珠](线/连接/珍珠.md)
       - [Achtelwenden](线/连接/Achtelwenden.md)
       - [Angler](线/连接/Angler.md)
+      - [Signpost](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/signpost.html)
     - 分隔
       - [星系](线/分隔/星系.md)
       - [数方](线/分隔/数方.md)
       - [五格拼板](线/分隔/五格拼板.md)
+      - [Filling](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/filling.html)
       - 数回
           - [数回](线/分隔/数回/数回.md)
           - [奇偶数回](线/分隔/数回/奇偶数回.md)
@@ -54,15 +73,22 @@
           - [差1数回](线/分隔/数回/差1数回.md)
           - [异形数回](http://www.sudokufans.org.cn/lx/loom.index.php?w=16&h=10) 【需要登录】
   - 形
-    - [接水管](https://cn.puzzle-pipes.com/)
-    - [数箭](线/分隔/数回/数箭.md)
+    - [接水管](形/接水管.md)
+    - [Netslide](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/netslide-web.png)
+    - [数箭](形/数箭.md)
     - [留方](形/留方.md)
     - [三角扫雷](http://www.sudokufans.org.cn/lx/ms.index.php?w=6) 【需要登录】
     - [战舰](形/战舰.md)
+    - [Untangle](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/untangle.html)
   - 数
-    - [ABC-tje](数/ABCtje.md)
-    - [1234](http://www.sudokufans.org.cn/lx/game.index.php?type=1234) 【需要登录】
-    - [2234](http://www.sudokufans.org.cn/lx/game.index.php?type=2234) 【需要登录】
-    - [数独](https://dwz.cn/sudoku)
+    - 填
+      - [ABC-tje](数/ABCtje.md)
+      - [1234](http://www.sudokufans.org.cn/lx/game.index.php?type=1234) 【需要登录】
+      - [2234](http://www.sudokufans.org.cn/lx/game.index.php?type=2234) 【需要登录】
+      - [数独](https://dwz.cn/sudoku)
+    - 移
+      - [Fifteen](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/fifteen.html)
+      - [Sixteen](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/sixteen.html)
+      - [Twiddle](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/twiddle.html)
 
 > [德国逻辑大师谜题分类](http://wiki.logic-masters.de/index.php?title=Kategorie:Systematik/de)

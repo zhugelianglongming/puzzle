@@ -48,3 +48,4 @@
 - [珍珠](https://cn.puzzle-masyu.com/)
 - [Logic Masters Deutschland e.V.](https://logic-masters.de/)
 - [LITS](https://cn.puzzle-lits.com/)
+- [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
