@@ -37,7 +37,7 @@
         - [黑白](https://cn.puzzle-binairo.com/)
         - [扫雷](色/放置/部分/扫雷.md)
         - [填方块](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/pic-a-pix) 【付费】
-        - [星之战](https://cn.puzzle-star-battle.com/)
+        - [星之战](色/放置/部分/星之战.md)
         - [帐篷](色/放置/部分/帐篷.md)
         - [Black Box](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/blackbox.html)
         - [Magnets](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/magnets.html)
@@ -79,6 +79,7 @@
     - [留方](形/留方.md)
     - [三角扫雷](http://www.sudokufans.org.cn/lx/ms.index.php?w=6) 【需要登录】
     - [战舰](形/战舰.md)
+    - [Statue Park](https://www.gmpuzzles.com/blog/category/objectplacement/statue-park/) 【题目有限】
     - [Untangle](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/untangle.html)
   - 数
     - 填
