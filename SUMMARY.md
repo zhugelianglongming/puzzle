@@ -7,7 +7,7 @@
       - 静态染
         - 双色
           - [Unruly](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/unruly.html) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/unruly-web.png" width=100 height=100 />
-          - [不三不四](http://www.sudokufans.org.cn/lx/n3.index.php?w=10) 【需要登录】
+          - [不三不四](http://www.sudokufans.org.cn/lx/n3.index.php?w=10) 【需要登录】 <img src="http://www.sudokufans.org.cn/images/n3.png" width=100 height=100 />
           - [数织](色/染色/双色/数织.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/pattern-web.png" width=100 height=100 />
           - [方阵和](https://cn.puzzle-kakurasu.com/)
           - [蛇](色/染色/双色/蛇.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/tracks-web.png" width=100 height=100 />
@@ -57,7 +57,7 @@
       - [划斜线](线/连接/划斜线.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/slant-web.png" width=100 height=100 />
       - [连数字](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/link-a-pix) 【付费】
       - [数邻](线/连接/数邻.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/dominosa-web.png" width=100 height=100 />
-      - [仙人指路](http://www.sudokufans.org.cn/lx/xrzl.index.php?w=10) 【需要登录】
+      - [仙人指路](http://www.sudokufans.org.cn/lx/xrzl.index.php?w=10) 【需要登录】 <img src="http://www.sudokufans.org.cn/images/xrzl10.png" width=100 height=100 />
       - [信号旗](https://cn.puzzle-shingoki.com/)
       - [珍珠](线/连接/珍珠.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/pearl-web.png" width=100 height=100 />
       - [Achtelwenden](线/连接/Achtelwenden.md)
@@ -77,17 +77,17 @@
   - 形
     - [接水管](形/接水管.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/net-web.png" width=100 height=100 />
     - [Netslide](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/netslide-web.png) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/netslide-web.png" width=100 height=100 />
-    - [数箭](形/数箭.md)
-    - [留方](形/留方.md)
-    - [三角扫雷](http://www.sudokufans.org.cn/lx/ms.index.php?w=6) 【需要登录】
+    - [数箭](形/数箭.md) <img src="http://www.sudokufans.org.cn/images/lood5.png" width=100 height=100 />
+    - [留方](形/留方.md) <img src="http://www.sudokufans.org.cn/images/yay10.png" width=100 height=100 />
+    - [三角扫雷](http://www.sudokufans.org.cn/lx/ms.index.php?w=6) 【需要登录】 <img src="http://www.sudokufans.org.cn/images/ms6.png" width=100 height=100 />
     - [战舰](形/战舰.md)
     - [Statue Park](https://www.gmpuzzles.com/blog/category/objectplacement/statue-park/) 【题目有限】
     - [Untangle](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/untangle.html) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/untangle-web.png" width=100 height=100 />
   - 数
     - 填
       - [ABC-tje](数/ABCtje.md)
-      - [1234](http://www.sudokufans.org.cn/lx/game.index.php?type=1234) 【需要登录】
-      - [2234](http://www.sudokufans.org.cn/lx/game.index.php?type=2234) 【需要登录】
+      - [1234](http://www.sudokufans.org.cn/lx/game.index.php?type=1234) 【需要登录】 <img src="http://www.sudokufans.org.cn/images/1234.png" width=100 height=100 />
+      - [2234](http://www.sudokufans.org.cn/lx/game.index.php?type=2234) 【需要登录】 <img src="http://www.sudokufans.org.cn/images/2234.png" width=100 height=100 />
       - [数独](https://dwz.cn/sudoku)
     - 移
       - [Fifteen](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/fifteen.html) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/fifteen-web.png" width=100 height=100 />
