@@ -31,7 +31,7 @@
         - [Flood](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/flood.html) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/flood-web.png" width=100 height=100 />
     - 放置
       - 全放
-        - [阴阳](色/放置/全/阴阳.md)
+        - [阴阳](色/放置/全/阴阳.md) <img src="http://wiki.logic-masters.de/images/5/5e/Yin_yang-L150px.png" width=100 height=100 />
         - [ABC-Box](色/放置/全/ABC-Box.md)
         - [OOXX](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/tic-tac-logic) 【付费】
       - 部分放
