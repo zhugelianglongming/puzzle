@@ -4,25 +4,27 @@
 - 分类
   - 色
     - 染色
-      - 全染
-        - [Unruly](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/unruly.html)
-        - [不三不四](http://www.sudokufans.org.cn/lx/n3.index.php?w=10) 【需要登录】
-        - [数间](https://cn.puzzle-heyawake.com/)
-        - [数墙](https://cn.puzzle-nurikabe.com/)
-        - [数墙‧改](https://cn.puzzle-tapa.com/)
-        - [Map](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/map.html)
-        - [Mosaic](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/mosaic.html)
-      - 部分染
-        - [方阵和](https://cn.puzzle-kakurasu.com/)
-        - [交叉填图](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/cross-a-pix) 【付费】
-        - [蛇](色/染色/部分/蛇.md)
-        - [数壹](色/染色/部分/数壹.md)
-        - [数织](色/染色/部分/数织.md)
-        - [水箱](https://cn.puzzle-aquarium.com/)
-        - [像素填空游戏](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/fill-a-pix) 【付费】
-        - [羊肠小道](http://www.sudokufans.org.cn/lx/sho.index.php?w=10) 【需要登录】
-        - [LITS](https://cn.puzzle-lits.com/)
-        - [Range](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/range.html)
+      - 静态染
+        - 双色
+          - [Unruly](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/unruly.html)
+          - [不三不四](http://www.sudokufans.org.cn/lx/n3.index.php?w=10) 【需要登录】
+          - [数织](色/染色/双色/数织.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/pattern-web.png" width=100 height=100 />
+          - [方阵和](https://cn.puzzle-kakurasu.com/)
+          - [蛇](色/染色/双色/蛇.md)
+          - [数间](https://cn.puzzle-heyawake.com/)
+          - [数墙](色/染色/双色/数墙.md) <img src="https://www.conceptispuzzles.com/zh/picture/11/2661.gif" width=100 height=100 />
+          - [Aqre](https://www.gmpuzzles.com/blog/category/shading/aqre/) <img src="https://www.gmpuzzles.com/images/blog/GM-AqreEx.png" width=200 height=100 />
+          - [Kurotto](https://www.gmpuzzles.com/blog/category/shading/kurotto/) <img src="https://www.gmpuzzles.com/images/blog/Kurotto-Ex.png" width=200 height=100 />
+          - [Nanro](https://www.gmpuzzles.com/blog/category/shading/nanro/) <img src="https://www.gmpuzzles.com/images/blog/Nanro-Ex.png" width=230 height=100 />
+          - [Tapa](色/染色/双色/Tapa.md) <img src="https://www.gmpuzzles.com/images/blog/GM-Tapa-Ex.png" width=200 height=100 />
+          - [数壹](色/染色/双色/数壹.md)
+          - [水箱](https://cn.puzzle-aquarium.com/)
+          - [像素填空游戏](色/染色/双色/像素填空游戏.md)
+          - [羊肠小道](http://www.sudokufans.org.cn/lx/sho.index.php?w=10) 【需要登录】
+          - [LITS](https://cn.puzzle-lits.com/) <img src="https://www.gmpuzzles.com/images/blog/LITS-Ex.png" width=230 height=100 />
+          - [Range](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/range.html) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/mosaic-web.png" width=100 height=100 />
+        - 多色
+          - [Map](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/map.html)
       - 动态染
         - [Cube](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/cube.html)
         - [Flip](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/flip.html)
