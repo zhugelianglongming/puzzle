@@ -19,7 +19,7 @@
           - [Tapa](色/染色/双色/Tapa.md) <img src="https://www.gmpuzzles.com/images/blog/GM-Tapa-Ex.png" width=200 height=100 />
           - [数壹](色/染色/双色/数壹.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/singles-web.png" width=100 height=100 />
           - [水箱](https://cn.puzzle-aquarium.com/)
-          - [像素填空游戏](色/染色/双色/像素填空游戏.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/mosaic-web.png" width=100 height=100 />
+          - [马赛克](色/染色/双色/马赛克.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/mosaic-web.png" width=100 height=100 />
           - [羊肠小道](http://www.sudokufans.org.cn/lx/sho.index.php?w=10) 【需要登录】
           - [LITS](https://cn.puzzle-lits.com/) <img src="https://www.gmpuzzles.com/images/blog/LITS-Ex.png" width=230 height=100 />
           - [Range](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/range.html) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/range-web.png" width=100 height=100 />
