@@ -65,8 +65,8 @@
       - [珍珠](线/连接/珍珠.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/pearl-web.png" width=100 height=100 />
       - [信号旗](https://cn.puzzle-shingoki.com/)
       - [Balance Loop] 【题目有限】 <img src="https://www.gmpuzzles.com/images/blog/BalanceLoopEx.png" width=200 height=100 />
-      - [Achtelwenden](线/连接/Achtelwenden.md)
-      - [Angler](线/连接/Angler.md)
+      - [Achtelwenden](线/连接/Achtelwenden.md) <img src="http://wiki.logic-masters.de/images/8/8f/Achtelwenden-L150px.png" width=100 height=100 />
+      - [Angler](线/连接/Angler.md) <img src="http://wiki.logic-masters.de/images/f/f3/Angler-L150px.png" width=100 height=100 />
       - [Signpost](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/signpost.html) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/signpost-web.png" width=100 height=100 />
       - [Tapa-Like Loop] 【题目有限】 <img src="https://www.gmpuzzles.com/images/puzzles2021/TapaLikeLoopEx.png" width=200 height=100 />
       - [Round Trip] 【题目有限】 <img src="https://www.gmpuzzles.com/images/puzzles2021/RoundTrip-example.png" width=200 height=100 />
@@ -90,8 +90,8 @@
     - [数箭](形/数箭.md) <img src="http://www.sudokufans.org.cn/images/lood5.png" width=100 height=100 />
     - [留方](形/留方.md) <img src="http://www.sudokufans.org.cn/images/yay10.png" width=100 height=100 />
     - [三角扫雷](http://www.sudokufans.org.cn/lx/ms.index.php?w=6) 【需要登录】 <img src="http://www.sudokufans.org.cn/images/ms6.png" width=100 height=100 />
-    - [战舰](形/战舰.md)
-    - [Statue Park](https://www.gmpuzzles.com/blog/category/objectplacement/statue-park/) 【题目有限】
+    - [战舰](形/战舰.md) <img src="https://www.gmpuzzles.com/images/blog/GM-Battleships-Ex.png" width=180 height=100 />
+    - [Statue Park](https://www.gmpuzzles.com/blog/category/objectplacement/statue-park/) 【题目有限】 <img src="https://www.gmpuzzles.com/images/blog/StatuePark-Ex.png" width=140 height=100 />
     - [Untangle](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/untangle.html) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/untangle-web.png" width=100 height=100 />
   - 数
     - 填
