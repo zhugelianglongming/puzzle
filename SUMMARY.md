@@ -59,12 +59,17 @@
       - [划斜线](线/连接/划斜线.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/slant-web.png" width=100 height=100 />
       - [连数字](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/link-a-pix) 【付费】
       - [数邻](线/连接/数邻.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/dominosa-web.png" width=100 height=100 />
-      - [仙人指路](http://www.sudokufans.org.cn/lx/xrzl.index.php?w=10) 【需要登录】 <img src="http://www.sudokufans.org.cn/images/xrzl10.png" width=100 height=100 />
-      - [信号旗](https://cn.puzzle-shingoki.com/)
+      - [仙人指路](线/连接/仙人指路.md) <img src="https://www.gmpuzzles.com/images/blog/Yajilin-Ex.png" width=200 height=100 />
+      - [Castle Wall] 【题目有限】 <img src="https://www.gmpuzzles.com/images/puzzles/CastleWall-Ex.png" width=200 height=100 />
+      - [Masyu](https://www.gmpuzzles.com/blog/category/loop/masyu/) 【题目有限】 <img src="https://www.gmpuzzles.com/images/blog/GM-MasyuEx.png" width=200 height=100 />
       - [珍珠](线/连接/珍珠.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/pearl-web.png" width=100 height=100 />
+      - [信号旗](https://cn.puzzle-shingoki.com/)
+      - [Balance Loop] 【题目有限】 <img src="https://www.gmpuzzles.com/images/blog/BalanceLoopEx.png" width=200 height=100 />
       - [Achtelwenden](线/连接/Achtelwenden.md)
       - [Angler](线/连接/Angler.md)
       - [Signpost](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/signpost.html) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/signpost-web.png" width=100 height=100 />
+      - [Tapa-Like Loop] 【题目有限】 <img src="https://www.gmpuzzles.com/images/puzzles2021/TapaLikeLoopEx.png" width=200 height=100 />
+      - [Round Trip] 【题目有限】 <img src="https://www.gmpuzzles.com/images/puzzles2021/RoundTrip-example.png" width=200 height=100 />
     - 分隔
       - [星系](线/分隔/星系.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/galaxies-web.png" width=100 height=100 />
       - [数方](线/分隔/数方.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/rect-web.png" width=100 height=100 />
@@ -100,3 +105,8 @@
       - [Twiddle](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/twiddle.html) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/twiddle-web.png" width=100 height=100 />
 
 > [德国逻辑大师谜题分类](http://wiki.logic-masters.de/index.php?title=Kategorie:Systematik/de)
+
+[Balance Loop]: https://www.gmpuzzles.com/blog/category/loop/balance-loop/
+[Castle Wall]: https://www.gmpuzzles.com/blog/category/loop/castle-wall/
+[Tapa-Like Loop]: https://www.gmpuzzles.com/blog/category/loop/tapa-like-loop/
+[Round Trip]: https://www.gmpuzzles.com/blog/category/loop/round-trip/
