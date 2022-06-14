@@ -74,7 +74,7 @@
       - [星系](线/分隔/星系.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/galaxies-web.png" width=100 height=100 />
       - [数方](线/分隔/数方.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/rect-web.png" width=100 height=100 />
       - [五格拼板](线/分隔/五格拼板.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/palisade-web.png" width=100 height=100 />
-      - [Fillomino](线/分隔/Fillomino.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/filling-web.png" width=100 height=100 />
+      - [码牌](线/分隔/码牌.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/filling-web.png" width=100 height=100 />
       - [Araf](https://www.gmpuzzles.com/blog/category/regiondivision/araf/) <img src="https://www.gmpuzzles.com/images/puzzles/Araf-Ex.png" width=200 height=100 />
       - [Snake Pit](https://www.gmpuzzles.com/blog/category/regiondivision/snake-pit/) <img src="https://www.gmpuzzles.com/images/puzzles/SnakePit-Ex.png" width=200 height=100 />
       - [Pentominous](https://www.gmpuzzles.com/blog/category/regiondivision/pentominous/) <img src="https://www.gmpuzzles.com/images/blog/Pentominous-Ex.png" width=160 height=100 />
