@@ -46,6 +46,8 @@
 - [帐篷](https://cn.puzzle-tents.com/)
 - [战舰](https://cn.puzzle-battleships.com/)
 - [珍珠](https://cn.puzzle-masyu.com/)
+- Bilibili:
+  - [嘉和逆天](https://www.bilibili.com/read/cv15248528)
 - [Logic Masters Deutschland e.V.](https://logic-masters.de/)
 - [LITS](https://cn.puzzle-lits.com/)
 - [Grandmaster Puzzles](https://www.gmpuzzles.com/blog/)
