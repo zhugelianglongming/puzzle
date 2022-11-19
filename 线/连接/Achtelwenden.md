@@ -3,3 +3,7 @@
 
 # 题库
 - [LMD](https://logic-masters.de/Raetselportal/Suche/erweitert.php?chlang=en&tag_id=2071)
+
+# Obsidian
+
+[[连接]]

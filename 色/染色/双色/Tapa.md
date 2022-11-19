@@ -8,3 +8,7 @@
 - [数墙‧改](https://cn.puzzle-tapa.com/)
 - [Grandmaster Puzzles](https://www.gmpuzzles.com/blog/category/shading/tapa/) 【题目有限】
 - [康思](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/nurikabe) 【付费】
+
+# Obsidian
+
+[[染色]]

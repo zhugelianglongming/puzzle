@@ -3,3 +3,7 @@
 
 # 题库
 - [LMD](https://logic-masters.de/Raetselportal/Suche/spezial.php?listname=ABCtje)
+
+# Obsidian
+
+[[数字]]

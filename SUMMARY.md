@@ -22,7 +22,7 @@
           - [水箱](https://cn.puzzle-aquarium.com/)
           - [马赛克](色/染色/双色/马赛克.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/mosaic-web.png" width=100 height=100 />
           - [羊肠小道](http://www.sudokufans.org.cn/lx/sho.index.php?w=10) 【需要登录】
-          - [LITS](https://cn.puzzle-lits.com/) <img src="https://www.gmpuzzles.com/images/blog/LITS-Ex.png" width=230 height=100 />
+          - [LITS](色/染色/双色/LITS.md) <img src="https://www.gmpuzzles.com/images/blog/LITS-Ex.png" width=230 height=100 />
           - [Range](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/range.html) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/range-web.png" width=100 height=100 />
           - [Cave](https://www.gmpuzzles.com/blog/category/regiondivision/cave/) <img src="https://www.gmpuzzles.com/images/blog/GM-CaveEx.png" width=230 height=100 />
           - [Kuromasu](https://www.gmpuzzles.com/blog/category/regiondivision/kuromasu/) <img src="https://www.gmpuzzles.com/images/puzzles2021/Kuromasu-Ex.png" width=200 height=100 />
@@ -80,10 +80,10 @@
       - [Snake Pit](https://www.gmpuzzles.com/blog/category/regiondivision/snake-pit/) <img src="https://www.gmpuzzles.com/images/puzzles/SnakePit-Ex.png" width=200 height=100 />
       - [Pentominous](https://www.gmpuzzles.com/blog/category/regiondivision/pentominous/) <img src="https://www.gmpuzzles.com/images/blog/Pentominous-Ex.png" width=160 height=100 />
       - 数回 <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/loopy-web.png" width=100 height=100 />
-          - [数回](线/分隔/数回/数回.md)
-          - [奇偶数回](线/分隔/数回/奇偶数回.md)
-          - [正反数回](线/分隔/数回/正反数回.md)
-          - [差1数回](线/分隔/数回/差1数回.md)
+          - [数回](数回.md)
+          - [奇偶数回](奇偶数回.md)
+          - [正反数回](正反数回.md)
+          - [差1数回](差1数回.md)
           - [异形数回](http://www.sudokufans.org.cn/lx/loom.index.php?w=16&h=10) 【需要登录】
   - 形
     - [接水管](形/接水管.md) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/net-web.png" width=100 height=100 />
@@ -104,6 +104,10 @@
       - [Fifteen](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/fifteen.html) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/fifteen-web.png" width=100 height=100 />
       - [Sixteen](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/sixteen.html) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/sixteen-web.png" width=100 height=100 />
       - [Twiddle](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/twiddle.html) <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/twiddle-web.png" width=100 height=100 />
+
+# Obsidian
+
+[[数独]]
 
 > [德国逻辑大师谜题分类](http://wiki.logic-masters.de/index.php?title=Kategorie:Systematik/de)
 
