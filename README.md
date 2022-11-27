@@ -18,6 +18,18 @@
 ### 脑图
 [智力谜题分类](http://naotu.baidu.com/file/2aaf3d54f319709cf717f5bd49d3dcae?token=b143a3231e27c705)
 
+### Obsidian
+
+以关联知识图谱的方式查看：
+
+- 下载并安装 [Obsidian](https://obsidian.md/)
+- 下载代码库 `git clone git@github.com:zhugelianglongming/puzzle.git`
+- 点击`打开本地仓库`，选择代码库本地根目录
+- 点击`查看关系图谱`
+
+![](images/obsidian.png)
+
+
 ## 收录站点
 - [搭桥](https://cn.puzzle-bridges.com/)
 - [点灯](https://cn.puzzle-light-up.com/)
