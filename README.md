@@ -1,5 +1,8 @@
 # Puzzle
 
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
+
+
 收录谜题资源
 ![](images/智力谜题.svg)
 
@@ -11,7 +14,7 @@
 
 ### gitbook
 
-访问: 
+访问:
 - [puzzle](https://zhugelianglongming.github.io/puzzle/)
 - [智力游戏](https://zhugelianglongming.gitbook.io/zhi-li-you-xi/)
 
