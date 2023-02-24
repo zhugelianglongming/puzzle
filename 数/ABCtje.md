@@ -15,10 +15,10 @@
 |:---:|:----:|:----------|
 |  1  |  单词  | 单词 = 字母的和 |
 
+### 标签
+
+- [[数字]]
+
 ## 题库
 
 - [LMD](https://logic-masters.de/Raetselportal/Suche/spezial.php?listname=ABCtje)
-
-## 标签
-
-- [[数字]]

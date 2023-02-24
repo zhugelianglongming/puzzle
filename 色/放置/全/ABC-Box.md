@@ -17,10 +17,10 @@
 |  1  |  盘外提示  | 将当前行/列按照相同元素进行压缩，标记对应压缩结果。<br/>标记含义为：<br/> - `ABC`: 提示压缩元素<br/> - 数字：提示压缩数量<br/> - 其他：不提示 |
 <!-- markdownlint-enable MD013 -->
 
+### 标签
+
+- [[标记]]
+
 ## 题库
 
 - [LMD](https://logic-masters.de/Raetselportal/Suche/erweitert.php?tag_id=1311)
-
-## 标签
-
-- [[标记]]
