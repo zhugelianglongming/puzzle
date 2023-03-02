@@ -1,7 +1,9 @@
 # Puzzle
 
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/zhugelianglongming/puzzle/main.svg)](https://results.pre-commit.ci/latest/github/zhugelianglongming/puzzle/main)
+
 收录谜题资源
-![](images/智力谜题.svg)
+![谜题分类](images/智力谜题.svg)
 
 ## 查看方式
 
@@ -11,14 +13,28 @@
 
 ### gitbook
 
-访问: 
+访问:
+
 - [puzzle](https://zhugelianglongming.github.io/puzzle/)
 - [智力游戏](https://zhugelianglongming.gitbook.io/zhi-li-you-xi/)
 
 ### 脑图
+
 [智力谜题分类](http://naotu.baidu.com/file/2aaf3d54f319709cf717f5bd49d3dcae?token=b143a3231e27c705)
 
+### 标签
+
+以关联知识图谱的方式查看：
+
+- 下载并安装 [Obsidian](https://obsidian.md/)
+- 下载代码库 `git clone git@github.com:zhugelianglongming/puzzle.git`
+- 点击`打开本地仓库`，选择代码库本地根目录
+- 点击`查看关系图谱`
+
+![谜题关联关系](images/obsidian.png)
+
 ## 收录站点
+
 - [搭桥](https://cn.puzzle-bridges.com/)
 - [点灯](https://cn.puzzle-light-up.com/)
 - [独·数之道](http://www.sudokufans.org.cn/)
@@ -46,6 +62,9 @@
 - [帐篷](https://cn.puzzle-tents.com/)
 - [战舰](https://cn.puzzle-battleships.com/)
 - [珍珠](https://cn.puzzle-masyu.com/)
+- [1 to 25](http://www.1to25.com/1_to_25_Home)
+- Bilibili:
+  - [嘉和逆天](https://www.bilibili.com/read/cv15248528)
 - [Logic Masters Deutschland e.V.](https://logic-masters.de/)
 - [LITS](https://cn.puzzle-lits.com/)
 - [Grandmaster Puzzles](https://www.gmpuzzles.com/blog/)

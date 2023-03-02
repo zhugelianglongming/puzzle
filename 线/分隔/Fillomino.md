@@ -1,9 +1,0 @@
-![](https://www.gmpuzzles.com/images/blog/GM-Fillomino-Ex.png)
-
-# 别名
-- Fillomino
-- Filling
-
-# 题库
-- [Grandmaster Puzzles](https://www.gmpuzzles.com/blog/category/regiondivision/fillomino/) 【题目有限】
-- [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/filling.html)
