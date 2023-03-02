@@ -163,6 +163,7 @@
               <img src="http://www.sudokufans.org.cn/images/1234.png" width=100 height=100 />
       - [2234] 【需要登录】
               <img src="http://www.sudokufans.org.cn/images/2234.png" width=100 height=100 />
+      - [1to25](数/1to25.md) <img src="http://www.1to25.com/puzimages/rules3.gif" width=200 height=100 />
       - [数独](https://dwz.cn/sudoku)
     - 移
       - [Fifteen](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/fifteen.html)
