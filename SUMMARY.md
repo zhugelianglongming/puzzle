@@ -166,6 +166,9 @@
       - [1to25](数/1to25.md) <img src="http://www.1to25.com/puzimages/rules3.gif" width=100 height=100 />
       - [1N+](数/1N+.md) <img src="images/1N+.png" width=100 height=100 />
       - [划数字](数/划数字.md) <img src="images/划数字.png" width=100 height=100 />
+      - [数字块](数/数字块.md) <img src="images/数字块.jpg" width=100 height=100 />
+      - [无缘和网格](数/无缘和网格.md) <img src="images/无缘和网格.jpg" width=100 height=100 />
+      - [无缘连数](数/无缘连数.md) <img src="images/无缘连数.jpg" width=100 height=100 />
       - [数独](https://dwz.cn/sudoku)
     - 移
       - [Fifteen](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/fifteen.html)
