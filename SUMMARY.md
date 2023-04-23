@@ -20,6 +20,8 @@
           - [蛇](色/染色/双色/蛇.md)
                       <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/tracks-web.png" width=100 height=100 />
           - [数间](https://cn.puzzle-heyawake.com/)
+          - [藕断丝连](色/染色/双色/藕断丝连.md)
+                      <img src="images/藕断丝连.jpg" width=100 height=100 />
           - [数墙](色/染色/双色/数墙.md)
                       <img src="https://www.conceptispuzzles.com/zh/picture/11/2661.gif" width=100 height=100 />
           - [Aqre](https://www.gmpuzzles.com/blog/category/shading/aqre/)
@@ -167,6 +169,7 @@
       - [1N+](数/1N+.md) <img src="images/1N+.png" width=100 height=100 />
       - [划数字](数/划数字.md) <img src="images/划数字.png" width=100 height=100 />
       - [数字块](数/数字块.md) <img src="images/数字块.jpg" width=100 height=100 />
+      - [四色定理](数/四色定理.md) <img src="images/四色定理.jpg" width=100 height=100 />
       - [无缘和网格](数/无缘和网格.md) <img src="images/无缘和网格.jpg" width=100 height=100 />
       - [无缘连数](数/无缘连数.md) <img src="images/无缘连数.jpg" width=100 height=100 />
       - [数独](https://dwz.cn/sudoku)

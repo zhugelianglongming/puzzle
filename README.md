@@ -34,7 +34,9 @@
 
 ![谜题关联关系](images/obsidian.png)
 
-## 收录站点
+## 收录
+
+### 站点
 
 - [搭桥](https://cn.puzzle-bridges.com/)
 - [点灯](https://cn.puzzle-light-up.com/)
@@ -70,3 +72,8 @@
 - [LITS](https://cn.puzzle-lits.com/)
 - [Grandmaster Puzzles](https://www.gmpuzzles.com/blog/)
 - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
+
+### 微信小程序
+
+- 三思数独
+- 三思谜题
