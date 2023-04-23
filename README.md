@@ -9,7 +9,8 @@
 
 ### GitHub
 
-访问 [目录索引](SUMMARY.md)
+- 【推荐】访问 [Pages 页面](https://zhugelianglongming.github.io/puzzle/%E4%B8%BB%E9%A2%98%E7%B4%A2%E5%BC%95.html)
+- 访问源文件 [目录索引](https://github.com/zhugelianglongming/puzzle/blob/main/SUMMARY.md)
 
 ### gitbook
 
