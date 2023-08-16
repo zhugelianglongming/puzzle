@@ -68,6 +68,7 @@
         - [黑白](https://cn.puzzle-binairo.com/)
         - [扫雷](色/放置/部分/扫雷.md)
                   <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/mines-web.png" width=100 height=100 />
+        - [扫雷数独](色/放置/部分/扫雷数独.md)
         - [填方块] 【付费】
         - [星之战](色/放置/部分/星之战.md)
         - [帐篷](色/放置/部分/帐篷.md)
@@ -168,10 +169,15 @@
       - [1to25](数/1to25.md) <img src="http://www.1to25.com/puzimages/rules3.gif" width=100 height=100 />
       - [1N+](数/1N+.md) <img src="images/1N+.png" width=100 height=100 />
       - [划数字](数/划数字.md) <img src="images/划数字.png" width=100 height=100 />
+      - [方阵和](数/方阵和.md) <img src="images/方阵和.png" width=100 height=100 />
       - [数字块](数/数字块.md) <img src="images/数字块.jpg" width=100 height=100 />
-      - [四色定理](数/四色定理.md) <img src="images/四色定理.jpg" width=100 height=100 />
-      - [无缘和网格](数/无缘和网格.md) <img src="images/无缘和网格.jpg" width=100 height=100 />
+      - [高低块](数/高低块.md) <img src="images/高低块.png" width=100 height=100 />
       - [无缘连数](数/无缘连数.md) <img src="images/无缘连数.jpg" width=100 height=100 />
+      - [四色定理](数/四色定理.md) <img src="images/四色定理.jpg" width=100 height=100 />
+      - [因式推理](数/因式推理.md) <img src="images/因式推理.png" width=100 height=100 />
+      - [无缘和网格](数/无缘和网格.md) <img src="images/无缘和网格.jpg" width=100 height=100 />
+      - [连数字](数/连数字.md) <img src="images/连数字.png" width=100 height=100 />
+      - [连数字Pro](数/连数字Pro.md) <img src="images/连数字Pro.png" width=100 height=100 />
       - [数独](https://dwz.cn/sudoku)
     - 移
       - [Fifteen](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/fifteen.html)
