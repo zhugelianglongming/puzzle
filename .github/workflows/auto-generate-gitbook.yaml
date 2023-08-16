@@ -47,6 +47,7 @@ jobs:
           git add .
           git commit -m "Updated By Github Actions With Build ${{github.run_number}} of ${{github.workflow}} For Github Pages"
           git branch -M mac
+          # update token: https://github.com/settings/tokens/875776374
           git push --force --quiet "https://${TOKEN}@${REF}" mac:gh-pages
 
 # ref:
