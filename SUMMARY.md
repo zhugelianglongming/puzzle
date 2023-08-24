@@ -157,6 +157,8 @@
       <img src="http://www.sudokufans.org.cn/images/yay10.png" width=100 height=100 />
     - [三角扫雷] 【需要登录】
       <img src="http://www.sudokufans.org.cn/images/ms6.png" width=100 height=100 />
+    - [温度计](形/温度计.md)
+      <img src="images/温度计.png" width=100 height=100 />
     - [战舰](形/战舰.md)
       <img src="https://www.gmpuzzles.com/images/blog/GM-Battleships-Ex.png" width=180 height=100 />
     - [Statue Park] 【题目有限】

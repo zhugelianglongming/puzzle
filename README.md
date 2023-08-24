@@ -60,6 +60,7 @@
 - [数壹](https://cn.puzzle-hitori.com/)
 - [数织](https://cn.puzzle-nonograms.com/)
 - [水箱](https://cn.puzzle-aquarium.com/)
+- [温度计](https://cn.puzzle-thermometers.com/)
 - [星系](https://cn.puzzle-galaxies.com/)
 - [星之战](https://cn.puzzle-star-battle.com/)
 - [信号旗](https://cn.puzzle-shingoki.com/)
