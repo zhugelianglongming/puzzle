@@ -40,6 +40,8 @@
           - [羊肠小道] 【需要登录】
           - [LITS](色/染色/双色/LITS.md)
             <img src="https://www.gmpuzzles.com/images/blog/LITS-Ex.png" width=230 height=100 />
+          - [骨牌定位](色/染色/双色/骨牌定位.md)
+            <img src="images/骨牌定位.png" width=100 height=100 />
           - [Range](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/range.html)
             <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/range-web.png" width=100 height=100 />
           - [Cave](https://www.gmpuzzles.com/blog/category/regiondivision/cave/)

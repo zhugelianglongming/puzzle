@@ -44,6 +44,7 @@
 - [黑白](https://cn.puzzle-binairo.com/)
 - [方阵和](https://cn.puzzle-kakurasu.com/)
 - [缝线](https://cn.puzzle-stitches.com/)
+- [海苔](https://cn.puzzle-norinori.com/)
 - [接水管](https://cn.puzzle-pipes.com/)
 - [划斜线](https://cn.puzzle-slant.com/)
 - [康思](https://www.conceptispuzzles.com/zh/index.aspx?uri=home)
