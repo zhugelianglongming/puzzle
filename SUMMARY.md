@@ -103,6 +103,8 @@
               <img src="images/仙人带路.png" width=110 height=100 />
       - [仙人指路](线/连接/仙人指路.md)
               <img src="https://www.gmpuzzles.com/images/blog/Yajilin-Ex.png" width=200 height=100 />
+        - [四风](线/连接/四风.md)
+             <img src="images/四风.png" width=100 height=100 />
       - [Castle Wall] 【题目有限】
               <img src="https://www.gmpuzzles.com/images/puzzles/CastleWall-Ex.png" width=200 height=100 />
       - [珍珠](线/连接/珍珠.md)
