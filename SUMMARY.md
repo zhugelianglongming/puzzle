@@ -99,12 +99,12 @@
       - [连数字] 【付费】
       - [数邻](线/连接/数邻.md)
               <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/dominosa-web.png" width=100 height=100 />
+      - [仙人带路](线/连接/仙人带路.md)
+              <img src="images/仙人带路.png" width=110 height=100 />
       - [仙人指路](线/连接/仙人指路.md)
               <img src="https://www.gmpuzzles.com/images/blog/Yajilin-Ex.png" width=200 height=100 />
       - [Castle Wall] 【题目有限】
               <img src="https://www.gmpuzzles.com/images/puzzles/CastleWall-Ex.png" width=200 height=100 />
-      - [Masyu] 【题目有限】
-              <img src="https://www.gmpuzzles.com/images/blog/GM-MasyuEx.png" width=200 height=100 />
       - [珍珠](线/连接/珍珠.md)
               <img src="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/pearl-web.png" width=100 height=100 />
       - [信号旗](https://cn.puzzle-shingoki.com/)
@@ -204,8 +204,6 @@
 [Round Trip]: https://www.gmpuzzles.com/blog/category/loop/round-trip/
 
 [Statue Park]: https://www.gmpuzzles.com/blog/category/objectplacement/statue-park/
-
-[Masyu]: https://www.gmpuzzles.com/blog/category/loop/masyu/
 
 [不三不四]: http://www.sudokufans.org.cn/lx/n3.index.php?w=10
 
